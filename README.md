@@ -1,2 +1,7 @@
-# Online-Shopping-Management-System
-A simpleonline shopping management system, which stores and display data from MySQL database
+# online-shopping-with-advanced-admin-page
+Updated version
+
+
+online shopping system with both admin and user layouts.
+
+admin login details  Email=admin@gmail.com and Password=123456789.
